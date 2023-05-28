@@ -1,6 +1,5 @@
 *.zip
 *.ini
-*.a
 *.o
 ./release
 /__pycache__
