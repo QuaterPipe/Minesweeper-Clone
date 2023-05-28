@@ -2,6 +2,6 @@
 *.ini
 *.a
 *.o
-release
-__pycache__
-.vscode
+./release
+./__pycache__
+./.vscode
