@@ -3,3 +3,5 @@
 *.a
 *.o
 release
+__pycache__
+.vscode
